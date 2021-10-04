@@ -1,0 +1,65 @@
+body{
+	
+	height:auto;
+}
+.navbar .navbar-inverse{
+	padding-bottom: 0px;
+	padding-right: 10px;
+	padding-left: 20px;
+}
+
+.banner-image{
+	padding-top:70px; 
+	padding-bottom: 50px;
+	text-align: center;
+	color: #f8f8f8;
+	background:url(intro-bg_1.jpg)no-repeat center;
+	background-size: cover;
+	
+	
+}
+
+.banner_content{
+	position: relative;
+	padding-top: 6%;
+	padding-bottom: 6%;
+    overflow: hidden;
+	margin-top: 12%;
+	margin-bottom: 12%;
+	margin-left: 12%;
+	margin-right: 12%;
+	background-color: rgba(0,0,0,0.7);
+	max-width: 660px;
+}
+.thumbnail{
+display: block;
+padding: 4px;
+margin-bottom: 20px;
+line-height: 1.4728;
+background-color: #fff;
+border: 1px solid #ddd;
+border-radius: 4px;
+
+
+
+}
+.caption{
+    color:#000;
+    padding: 0px 10px 10px;
+    text-align: center;
+}
+
+
+	
+footer{
+	padding: 10px 0px;
+	background-color: #101010;
+	color:#9d9d9d;
+}
+.login-padding{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+
+
